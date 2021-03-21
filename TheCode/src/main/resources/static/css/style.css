@@ -1,0 +1,21 @@
+h1 {
+	color: red;
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+body {
+	text-align: center;
+}
+
+form {
+	display: inline-block;
+}
+
+ul {
+	display: inline-block;
+	text-align: left;
+}

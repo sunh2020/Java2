@@ -1,0 +1,9 @@
+.box {
+	width: 150px;
+	height:100px;
+	margin: 5px auto;
+	padding: 15px;
+	border: 1px solid black;
+	display: inline-block;
+	text-align: center;
+}
